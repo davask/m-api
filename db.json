@@ -1,0 +1,3189 @@
+{
+    "code": [
+    {
+        "id": 1,
+        "cidTexte": "LEGITEXT000006074069",
+        "title": "Code de l'action sociale et des familles"
+    },
+    {
+        "id": 2,
+        "cidTexte": "LEGITEXT000006075116",
+        "title": "Code de l'artisanat"
+    },
+    {
+        "id": 3,
+        "cidTexte": "LEGITEXT000006073984",
+        "title": "Code des assurances"
+    },
+    {
+        "id": 4,
+        "cidTexte": "LEGITEXT000006074234",
+        "title": "Code de l'aviation civile"
+    },
+    {
+        "id": 5,
+        "cidTexte": "LEGITEXT000020908868",
+        "title": "Code du cinéma et de l'image animée"
+    },
+    {
+        "id": 6,
+        "cidTexte": "LEGITEXT000006070721",
+        "title": "Code civil"
+    },
+    {
+        "id": 7,
+        "cidTexte": "LEGITEXT000005634379",
+        "title": "Code de commerce"
+    },
+    {
+        "id": 8,
+        "cidTexte": "LEGITEXT000006070162",
+        "title": "Code des communes"
+    },
+    {
+        "id": 9,
+        "cidTexte": "LEGITEXT000006070300",
+        "title": "Code des communes de la Nouvelle-Calédonie"
+    },
+    {
+        "id": 10,
+        "cidTexte": "LEGITEXT000006069565",
+        "title": "Code de la consommation"
+    },
+    {
+        "id": 11,
+        "cidTexte": "LEGITEXT000006074096",
+        "title": "Code de la construction et de l'habitation"
+    },
+    {
+        "id": 12,
+        "cidTexte": "LEGITEXT000006071307",
+        "title": "Code de la défense"
+    },
+    {
+        "id": 13,
+        "cidTexte": "LEGITEXT000006074232",
+        "title": "Code de déontologie des architectes"
+    },
+    {
+        "id": 14,
+        "cidTexte": "LEGITEXT000006071188",
+        "title": "Code disciplinaire et pénal de la marine marchande"
+    },
+    {
+        "id": 15,
+        "cidTexte": "LEGITEXT000006070208",
+        "title": "Code du domaine de l'Etat"
+    },
+    {
+        "id": 16,
+        "cidTexte": "LEGITEXT000006074235",
+        "title": "Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte"
+    },
+    {
+        "id": 17,
+        "cidTexte": "LEGITEXT000006074237",
+        "title": "Code du domaine public fluvial et de la navigation intérieure"
+    },
+    {
+        "id": 18,
+        "cidTexte": "LEGITEXT000006071570",
+        "title": "Code des douanes"
+    },
+    {
+        "id": 19,
+        "cidTexte": "LEGITEXT000006071645",
+        "title": "Code des douanes de Mayotte"
+    },
+    {
+        "id": 20,
+        "cidTexte": "LEGITEXT000006071191",
+        "title": "Code de l'éducation"
+    },
+    {
+        "id": 21,
+        "cidTexte": "LEGITEXT000006070239",
+        "title": "Code électoral"
+    },
+    {
+        "id": 22,
+        "cidTexte": "LEGITEXT000023983208",
+        "title": "Code de l'énergie"
+    },
+    {
+        "id": 23,
+        "cidTexte": "LEGITEXT000006070158",
+        "title": "Code de l'entrée et du séjour des étrangers et du droit d'asile"
+    },
+    {
+        "id": 24,
+        "cidTexte": "LEGITEXT000006074220",
+        "title": "Code de l'environnement"
+    },
+    {
+        "id": 25,
+        "cidTexte": "LEGITEXT000006074224",
+        "title": "Code de l'expropriation pour cause d'utilité publique"
+    },
+    {
+        "id": 26,
+        "cidTexte": "LEGITEXT000006072637",
+        "title": "Code de la famille et de l'aide sociale"
+    },
+    {
+        "id": 27,
+        "cidTexte": "LEGITEXT000025244092",
+        "title": "Code forestier (nouveau)"
+    },
+    {
+        "id": 28,
+        "cidTexte": "LEGITEXT000006070299",
+        "title": "Code général de la propriété des personnes publiques"
+    },
+    {
+        "id": 29,
+        "cidTexte": "LEGITEXT000006070633",
+        "title": "Code général des collectivités territoriales"
+    },
+    {
+        "id": 30,
+        "cidTexte": "LEGITEXT000006069577",
+        "title": "Code général des impôts"
+    },
+    {
+        "id": 31,
+        "cidTexte": "LEGITEXT000006069568",
+        "title": "Code général des impôts, annexe 1"
+    },
+    {
+        "id": 32,
+        "cidTexte": "LEGITEXT000006069569",
+        "title": "Code général des impôts, annexe 2"
+    },
+    {
+        "id": 33,
+        "cidTexte": "LEGITEXT000006069574",
+        "title": "Code général des impôts, annexe 3"
+    },
+    {
+        "id": 34,
+        "cidTexte": "LEGITEXT000006069576",
+        "title": "Code général des impôts, annexe 4"
+    },
+    {
+        "id": 35,
+        "cidTexte": "LEGITEXT000006070666",
+        "title": "Code des instruments monétaires et des médailles"
+    },
+    {
+        "id": 36,
+        "cidTexte": "LEGITEXT000006070249",
+        "title": "Code des juridictions financières"
+    },
+    {
+        "id": 37,
+        "cidTexte": "LEGITEXT000006070933",
+        "title": "Code de justice administrative"
+    },
+    {
+        "id": 38,
+        "cidTexte": "LEGITEXT000006071360",
+        "title": "Code de justice militaire (nouveau)"
+    },
+    {
+        "id": 39,
+        "cidTexte": "LEGITEXT000006071007",
+        "title": "Code de la légion d'honneur et de la médaille militaire"
+    },
+    {
+        "id": 40,
+        "cidTexte": "LEGITEXT000006069583",
+        "title": "Livre des procédures fiscales"
+    },
+    {
+        "id": 41,
+        "cidTexte": "LEGITEXT000006071785",
+        "title": "Code minier"
+    },
+    {
+        "id": 42,
+        "cidTexte": "LEGITEXT000023501962",
+        "title": "Code minier (nouveau)"
+    },
+    {
+        "id": 43,
+        "cidTexte": "LEGITEXT000006072026",
+        "title": "Code monétaire et financier"
+    },
+    {
+        "id": 44,
+        "cidTexte": "LEGITEXT000006074067",
+        "title": "Code de la mutualité"
+    },
+    {
+        "id": 45,
+        "cidTexte": "LEGITEXT000006071164",
+        "title": "Code de l'organisation judiciaire"
+    },
+    {
+        "id": 46,
+        "cidTexte": "LEGITEXT000006074236",
+        "title": "Code du patrimoine"
+    },
+    {
+        "id": 47,
+        "cidTexte": "LEGITEXT000006070719",
+        "title": "Code pénal"
+    },
+    {
+        "id": 48,
+        "cidTexte": "LEGITEXT000006070302",
+        "title": "Code des pensions civiles et militaires de retraite"
+    },
+    {
+        "id": 49,
+        "cidTexte": "LEGITEXT000006074066",
+        "title": "Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance"
+    },
+    {
+        "id": 50,
+        "cidTexte": "LEGITEXT000006074068",
+        "title": "Code des pensions militaires d'invalidité et des victimes de guerre"
+    },
+    {
+        "id": 51,
+        "cidTexte": "LEGITEXT000006074233",
+        "title": "Code des ports maritimes"
+    },
+    {
+        "id": 52,
+        "cidTexte": "LEGITEXT000006070987",
+        "title": "Code des postes et des communications électroniques"
+    },
+    {
+        "id": 53,
+        "cidTexte": "LEGITEXT000006070716",
+        "title": "Code de procédure civile"
+    },
+    {
+        "id": 54,
+        "cidTexte": "LEGITEXT000006071154",
+        "title": "Code de procédure pénale"
+    },
+    {
+        "id": 55,
+        "cidTexte": "LEGITEXT000025024948",
+        "title": "Code des procédures civiles d'exécution"
+    },
+    {
+        "id": 56,
+        "cidTexte": "LEGITEXT000006069414",
+        "title": "Code de la propriété intellectuelle"
+    },
+    {
+        "id": 57,
+        "cidTexte": "LEGITEXT000006071190",
+        "title": "Code de la recherche"
+    },
+    {
+        "id": 58,
+        "cidTexte": "LEGITEXT000031366350",
+        "title": "Code des relations entre le public et l'administration"
+    },
+    {
+        "id": 59,
+        "cidTexte": "LEGITEXT000006074228",
+        "title": "Code de la route"
+    },
+    {
+        "id": 60,
+        "cidTexte": "LEGITEXT000006071366",
+        "title": "Code rural (ancien)"
+    },
+    {
+        "id": 61,
+        "cidTexte": "LEGITEXT000006071367",
+        "title": "Code rural et de la pêche maritime"
+    },
+    {
+        "id": 62,
+        "cidTexte": "LEGITEXT000006072665",
+        "title": "Code de la santé publique"
+    },
+    {
+        "id": 63,
+        "cidTexte": "LEGITEXT000025503132",
+        "title": "Code de la sécurité intérieure"
+    },
+    {
+        "id": 64,
+        "cidTexte": "LEGITEXT000006073189",
+        "title": "Code de la sécurité sociale"
+    },
+    {
+        "id": 65,
+        "cidTexte": "LEGITEXT000006071335",
+        "title": "Code du service national"
+    },
+    {
+        "id": 66,
+        "cidTexte": "LEGITEXT000006071318",
+        "title": "Code du sport"
+    },
+    {
+        "id": 67,
+        "cidTexte": "LEGITEXT000006074073",
+        "title": "Code du tourisme"
+    },
+    {
+        "id": 68,
+        "cidTexte": "LEGITEXT000023086525",
+        "title": "Code des transports"
+    },
+    {
+        "id": 69,
+        "cidTexte": "LEGITEXT000006072050",
+        "title": "Code du travail"
+    },
+    {
+        "id": 70,
+        "cidTexte": "LEGITEXT000006072052",
+        "title": "Code du travail applicable à Mayotte"
+    },
+    {
+        "id": 71,
+        "cidTexte": "LEGITEXT000006072051",
+        "title": "Code du travail maritime"
+    },
+    {
+        "id": 72,
+        "cidTexte": "LEGITEXT000006074075",
+        "title": "Code de l'urbanisme"
+    },
+    {
+        "id": 73,
+        "cidTexte": "LEGITEXT000006070667",
+        "title": "Code de la voirie routière"
+    }],
+    "article": [
+    {
+        "id": 1,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165433",
+        "title": "Paragraphe 1 : Acquisition de la nationalité française à raison de la filiation"
+    },
+    {
+        "id": 2,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165440",
+        "title": "Paragraphe 2 : Acquisition de la nationalité française à raison du mariage"
+    },
+    {
+        "id": 3,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165743",
+        "title": "Paragraphe 3 : Acquisition de la nationalité française à raison de la naissance et de la résidence en France"
+    },
+    {
+        "id": 4,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165458",
+        "title": "Paragraphe 4 : Acquisition de la nationalité française par déclaration de nationalité"
+    },
+    {
+        "id": 5,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165459",
+        "title": "Paragraphe 5 : Acquisition de la nationalité française par décision de l'autorité publique"
+    },
+    {
+        "id": 6,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165744",
+        "title": "Paragraphe 6 : Dispositions communes à certains modes d'acquisition de la nationalité française"
+    },
+    {
+        "id": 7,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165461",
+        "title": "Paragraphe 7 : De la cérémonie d'accueil dans la citoyenneté française"
+    },
+    {
+        "id": 8,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000033460875",
+        "title": "Paragraphe 1 : Du divorce par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire "
+    },
+    {
+        "id": 9,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000033460863",
+        "title": "Paragraphe 2 : Du divorce par consentement mutuel judiciaire"
+    },
+    {
+        "id": 10,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165745",
+        "title": "Paragraphe 1 : De la requête initiale."
+    },
+    {
+        "id": 11,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165470",
+        "title": "Paragraphe 2 : De la conciliation."
+    },
+    {
+        "id": 12,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165746",
+        "title": "Paragraphe 3 : Des mesures provisoires."
+    },
+    {
+        "id": 13,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165471",
+        "title": "Paragraphe 4 : De l'introduction de l'instance en divorce."
+    },
+    {
+        "id": 14,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165747",
+        "title": "Paragraphe 5 : Des preuves."
+    },
+    {
+        "id": 15,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165472",
+        "title": "Paragraphe 1 : Dispositions générales."
+    },
+    {
+        "id": 16,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165748",
+        "title": "Paragraphe 2 : Des conséquences propres aux divorces autres que par consentement mutuel."
+    },
+    {
+        "id": 17,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165474",
+        "title": "Paragraphe 3 : Des prestations compensatoires."
+    },
+    {
+        "id": 18,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165784",
+        "title": "Paragraphe 4 : Du logement."
+    },
+    {
+        "id": 19,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165486",
+        "title": "Paragraphe 1 : De la désignation de la mère dans l'acte de naissance"
+    },
+    {
+        "id": 20,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165749",
+        "title": "Paragraphe 2 : De la présomption de paternité"
+    },
+    {
+        "id": 21,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165785",
+        "title": "Paragraphe 1 : Principes généraux."
+    },
+    {
+        "id": 22,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165499",
+        "title": "Paragraphe 2 : De l'exercice de l'autorité parentale par les parents séparés"
+    },
+    {
+        "id": 23,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165500",
+        "title": "Paragraphe 3 : De l'intervention du juge aux affaires familiales"
+    },
+    {
+        "id": 24,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165750",
+        "title": "Paragraphe 4 : De l'intervention des tiers"
+    },
+    {
+        "id": 25,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345423",
+        "title": "Paragraphe 1 : Des charges tutélaires"
+    },
+    {
+        "id": 26,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345421",
+        "title": "Paragraphe 2 : Du conseil de famille"
+    },
+    {
+        "id": 27,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345419",
+        "title": "Paragraphe 3 : Du tuteur"
+    },
+    {
+        "id": 28,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345417",
+        "title": "Paragraphe 4 : Du subrogé tuteur"
+    },
+    {
+        "id": 29,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345413",
+        "title": "Paragraphe 5 : De la vacance de la tutelle"
+    },
+    {
+        "id": 30,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000031345415",
+        "title": "Paragraphe 6 : De la responsabilité"
+    },
+    {
+        "id": 31,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165753",
+        "title": "Sous-section 1 : De la durée de la mesure"
+    },
+    {
+        "id": 32,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165754",
+        "title": "Sous-section 2 : De la publicité de la mesure"
+    },
+    {
+        "id": 33,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165755",
+        "title": "Sous-section 3 : Des organes de protection"
+    },
+    {
+        "id": 34,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165510",
+        "title": "Sous-section 4 : Des effets de la curatelle et de la tutelle quant à la protection de la personne"
+    },
+    {
+        "id": 35,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165756",
+        "title": "Sous-section 5 : De la régularité des actes"
+    },
+    {
+        "id": 36,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165757",
+        "title": "Sous-section 6 : Des actes faits dans la curatelle"
+    },
+    {
+        "id": 37,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165758",
+        "title": "Sous-section 7 : Des actes faits dans la tutelle"
+    },
+    {
+        "id": 38,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165759",
+        "title": "Sous-section 1 : Des dispositions communes"
+    },
+    {
+        "id": 39,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165760",
+        "title": "Sous-section 2 : Du mandat notarié"
+    },
+    {
+        "id": 40,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165511",
+        "title": "Sous-section 3 : Du mandat sous seing privé"
+    },
+    {
+        "id": 41,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165761",
+        "title": "Paragraphe 1 : Des actes que le tuteur accomplit sans autorisation"
+    },
+    {
+        "id": 42,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165512",
+        "title": "Paragraphe 2 : Des actes que le tuteur accomplit avec une autorisation"
+    },
+    {
+        "id": 43,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165762",
+        "title": "Paragraphe 3 : Des actes que le tuteur ne peut accomplir"
+    },
+    {
+        "id": 44,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165515",
+        "title": "Paragraphe 1 : Des ordres d'héritiers."
+    },
+    {
+        "id": 45,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165763",
+        "title": "Paragraphe 2 : Des degrés."
+    },
+    {
+        "id": 46,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165764",
+        "title": "Paragraphe 3 : De la division par branches, paternelle et maternelle."
+    },
+    {
+        "id": 47,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165516",
+        "title": "Paragraphe 4 : De la représentation."
+    },
+    {
+        "id": 48,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165517",
+        "title": "Paragraphe 1 : De la nature des droits, de leur montant et de leur exercice"
+    },
+    {
+        "id": 49,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165518",
+        "title": "Paragraphe 2 : De la conversion de l'usufruit"
+    },
+    {
+        "id": 50,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165519",
+        "title": "Paragraphe 3 : Du droit au logement temporaire et du droit viager au logement"
+    },
+    {
+        "id": 51,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165765",
+        "title": "Paragraphe 4 : Du droit à pension"
+    },
+    {
+        "id": 52,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165766",
+        "title": "Paragraphe 1 : Des modalités de l'acceptation de la succession à concurrence de l'actif net."
+    },
+    {
+        "id": 53,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165520",
+        "title": "Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net."
+    },
+    {
+        "id": 54,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165521",
+        "title": "Paragraphe 1 : De l'ouverture de la vacance."
+    },
+    {
+        "id": 55,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165522",
+        "title": "Paragraphe 2 : Des pouvoirs du curateur."
+    },
+    {
+        "id": 56,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165523",
+        "title": "Paragraphe 3 : De la reddition des comptes et de la fin de la curatelle."
+    },
+    {
+        "id": 57,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165525",
+        "title": "Paragraphe 1 : Des conditions du mandat à effet posthume."
+    },
+    {
+        "id": 58,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165526",
+        "title": "Paragraphe 2 : De la rémunération du mandataire."
+    },
+    {
+        "id": 59,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165527",
+        "title": "Paragraphe 3 : De la fin du mandat à effet posthume."
+    },
+    {
+        "id": 60,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165767",
+        "title": "Paragraphe 1 : Des actes accomplis par les indivisaires."
+    },
+    {
+        "id": 61,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165768",
+        "title": "Paragraphe 2 : Des actes autorisés en justice."
+    },
+    {
+        "id": 62,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165769",
+        "title": "Sous-section 2 : Du partage amiable."
+    },
+    {
+        "id": 63,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165529",
+        "title": "Sous-section 3 : Du partage judiciaire."
+    },
+    {
+        "id": 64,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165770",
+        "title": "Paragraphe 1 : Des dettes des copartageants"
+    },
+    {
+        "id": 65,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165771",
+        "title": "Paragraphe 2 : Des autres dettes"
+    },
+    {
+        "id": 66,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165530",
+        "title": "Paragraphe 1 : Des actions en nullité du partage"
+    },
+    {
+        "id": 67,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165772",
+        "title": "Paragraphe 2 : De l'action en complément de part"
+    },
+    {
+        "id": 68,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165577",
+        "title": "Paragraphe 1 : Des opérations préliminaires à la réduction"
+    },
+    {
+        "id": 69,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165578",
+        "title": "Paragraphe 2 : De l'exercice de la réduction"
+    },
+    {
+        "id": 70,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165579",
+        "title": "Paragraphe 3 : De la renonciation anticipée à l'action en réduction"
+    },
+    {
+        "id": 71,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165580",
+        "title": "Paragraphe 1 : Des donations-partages faites aux héritiers présomptifs."
+    },
+    {
+        "id": 72,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165581",
+        "title": "Paragraphe 2 : Des donations-partages faites à des descendants de degrés différents."
+    },
+    {
+        "id": 73,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032040930",
+        "title": "Section 2 : La validité du contrat"
+    },
+    {
+        "id": 74,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032041417",
+        "title": "Section 3 : La durée du contrat"
+    },
+    {
+        "id": 75,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032041424",
+        "title": "Section 4 : La cession de contrat"
+    },
+    {
+        "id": 76,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032041441",
+        "title": "Section 5 : L'inexécution du contrat"
+    },
+    {
+        "id": 77,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032031312",
+        "title": "Sous-section 2 : La pluralité de sujets \r\n"
+    },
+    {
+        "id": 78,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032035235",
+        "title": "Sous-section 1 : Dispositions générales "
+    },
+    {
+        "id": 79,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032035257",
+        "title": "Sous-section 2 : Dispositions particulières aux obligations de sommes d'argent \r\n"
+    },
+    {
+        "id": 80,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032035285",
+        "title": "Sous-section 4 : Le paiement avec subrogation \r\n"
+    },
+    {
+        "id": 81,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032035645",
+        "title": "Sous-section 1 : Règles générales "
+    },
+    {
+        "id": 82,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032035661",
+        "title": "Sous-section 2 : Règles particulières "
+    },
+    {
+        "id": 83,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037829",
+        "title": "Sous-section 1 : Dispositions générales \r\n"
+    },
+    {
+        "id": 84,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037831",
+        "title": "Sous-section 2 : L'acte authentique "
+    },
+    {
+        "id": 85,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037833",
+        "title": "Sous-section 3 : L'acte sous signature privée \r\n"
+    },
+    {
+        "id": 86,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037835",
+        "title": "Sous-section 4 : Autres écrits \r\n"
+    },
+    {
+        "id": 87,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037837",
+        "title": "Sous-section 5 : Les copies \r\n"
+    },
+    {
+        "id": 88,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037839",
+        "title": "Sous-section 6 : Les actes récognitifs \r\n"
+    },
+    {
+        "id": 89,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037849",
+        "title": "Sous-section 1 : Le serment décisoire \r\n"
+    },
+    {
+        "id": 90,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000032037851",
+        "title": "Sous-section 2 : Le serment déféré d'office \r\n"
+    },
+    {
+        "id": 91,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165610",
+        "title": "Section 2 : De l'administration de la communauté et des biens propres."
+    },
+    {
+        "id": 92,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165613",
+        "title": "Section 1 : De la communauté de meubles et acquêts."
+    },
+    {
+        "id": 93,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165777",
+        "title": "Section 2 : De la clause d'administration conjointe."
+    },
+    {
+        "id": 94,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165616",
+        "title": "Section 3 : De la clause de prélèvement moyennant indemnité."
+    },
+    {
+        "id": 95,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165617",
+        "title": "Section 4 : Du préciput."
+    },
+    {
+        "id": 96,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165619",
+        "title": "Section 5 : De la stipulation de parts inégales."
+    },
+    {
+        "id": 97,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165621",
+        "title": "Section 6 : De la communauté universelle."
+    },
+    {
+        "id": 98,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165623",
+        "title": "Paragraphe 1 : De la garantie en cas d'éviction."
+    },
+    {
+        "id": 99,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165624",
+        "title": "Paragraphe 2 : De la garantie des défauts de la chose vendue."
+    },
+    {
+        "id": 100,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165625",
+        "title": "Paragraphe 1 : Du cheptel donné au fermier."
+    },
+    {
+        "id": 101,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000020616187",
+        "title": "Paragraphe 2 : Du cheptel donné au métayer."
+    },
+    {
+        "id": 102,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165781",
+        "title": "Sous-section 1 : De l'effet du cautionnement entre le créancier et la caution"
+    },
+    {
+        "id": 103,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165782",
+        "title": "Sous-section 2 : De l'effet du cautionnement entre le débiteur et la caution"
+    },
+    {
+        "id": 104,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165783",
+        "title": "Sous-section 3 : De l'effet du cautionnement entre les cofidéjusseurs"
+    },
+    {
+        "id": 105,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165629",
+        "title": "Section 1 : Des privilèges généraux"
+    },
+    {
+        "id": 106,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165630",
+        "title": "Section 2 : Des privilèges spéciaux"
+    },
+    {
+        "id": 107,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165631",
+        "title": "Section 3 : Du classement des privilèges"
+    },
+    {
+        "id": 108,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165632",
+        "title": "Section 1 : Du droit commun du gage"
+    },
+    {
+        "id": 109,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165633",
+        "title": "Section 2 : Du gage portant sur un véhicule automobile."
+    },
+    {
+        "id": 110,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165634",
+        "title": "Section 3 : Dispositions communes."
+    },
+    {
+        "id": 111,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000020192954",
+        "title": "Section 1 : De la propriété retenue à titre de garantie."
+    },
+    {
+        "id": 112,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000020192974",
+        "title": "Section 2 : De la propriété cédée à titre de garantie."
+    },
+    {
+        "id": 113,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165635",
+        "title": "Section 1 : Des privilèges spéciaux."
+    },
+    {
+        "id": 114,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165636",
+        "title": "Section 2 : Des privilèges généraux."
+    },
+    {
+        "id": 115,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165637",
+        "title": "Section 3 : Des cas où les privilèges doivent être inscrits"
+    },
+    {
+        "id": 116,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165664",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 117,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165679",
+        "title": "Section 3 : Des hypothèques judiciaires"
+    },
+    {
+        "id": 118,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165681",
+        "title": "Section 4 : Des hypothèques conventionnelles"
+    },
+    {
+        "id": 119,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165695",
+        "title": "Section 5 : Du classement des hypothèques"
+    },
+    {
+        "id": 120,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000006165702",
+        "title": "Section 1 : Du mode d'inscription des privilèges et des hypothèques"
+    },
+    {
+        "id": 121,
+        "cidTexte": "LEGITEXT000006070721",
+        "idArticle": "LEGISCTA000022335584",
+        "title": "Section 3 : De la publicité des registres et de la responsabilité en matière de publicité foncière"
+    },
+    {
+        "id": 122,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161246",
+        "title": "Section 1 : De la qualité de commerçant."
+    },
+    {
+        "id": 123,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019287890",
+        "title": "Section 2 : Du conjoint    du chef d'entreprise ou du partenaire lié au chef d'entreprise par un pacte civil de solidarité, travaillant dans l'entreprise familiale"
+    },
+    {
+        "id": 124,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019289825",
+        "title": "Section 3 : Des activités commerciales et artisanales ambulantes"
+    },
+    {
+        "id": 125,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161251",
+        "title": "Section 1 : De la constitution du magasin collectif"
+    },
+    {
+        "id": 126,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161252",
+        "title": "Section 2 : De l'administration du magasin collectif"
+    },
+    {
+        "id": 127,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161253",
+        "title": "Section 3 : De l'agrément et de l'exclusion."
+    },
+    {
+        "id": 128,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161254",
+        "title": "Section 4 : De la dissolution."
+    },
+    {
+        "id": 129,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024384735",
+        "title": "Section 1 : Des courtiers en général"
+    },
+    {
+        "id": 130,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161255",
+        "title": "Section 1 : Des commissionnaires en général."
+    },
+    {
+        "id": 131,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161256",
+        "title": "Section 2 : Des commissionnaires pour les transports."
+    },
+    {
+        "id": 132,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161257",
+        "title": "Section 1 : De l'acte de vente."
+    },
+    {
+        "id": 133,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161258",
+        "title": "Section 2 : Du privilège du vendeur."
+    },
+    {
+        "id": 134,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031012687",
+        "title": "Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité d'entreprise"
+    },
+    {
+        "id": 135,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031012706",
+        "title": "Section 4 : De l'information anticipée des salariés leur permettant de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises soumises à l'obligation de mettre en place un comité d'entreprise"
+    },
+    {
+        "id": 136,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161259",
+        "title": "Section 1 : De la réalisation du gage et de la purge des créances inscrites."
+    },
+    {
+        "id": 137,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161260",
+        "title": "Section 2 : Des formalités d'inscription et de radiation."
+    },
+    {
+        "id": 138,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161261",
+        "title": "Section 3 : Des intermédiaires et de la répartition du prix."
+    },
+    {
+        "id": 139,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161262",
+        "title": "Section 1 : Du champ d'application."
+    },
+    {
+        "id": 140,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161263",
+        "title": "Section 2 : De la durée."
+    },
+    {
+        "id": 141,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161264",
+        "title": "Section 3 : Du renouvellement."
+    },
+    {
+        "id": 142,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161265",
+        "title": "Section 4 : Du refus de renouvellement."
+    },
+    {
+        "id": 143,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161266",
+        "title": "Section 5 : De la sous-location."
+    },
+    {
+        "id": 144,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161267",
+        "title": "Section 6 : Du loyer."
+    },
+    {
+        "id": 145,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029103485",
+        "title": "Section 6 bis : De l'état des lieux, des charges locatives et des impôts"
+    },
+    {
+        "id": 146,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161268",
+        "title": "Section 7 : De la résiliation"
+    },
+    {
+        "id": 147,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161269",
+        "title": "Section 8 : De la déspécialisation."
+    },
+    {
+        "id": 148,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161270",
+        "title": "Section 9 : De la procédure."
+    },
+    {
+        "id": 149,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161273",
+        "title": "Section 3 : Des assemblées d'actionnaires."
+    },
+    {
+        "id": 150,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161275",
+        "title": "Section 5 : Du contrôle des sociétés anonymes."
+    },
+    {
+        "id": 151,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161276",
+        "title": "Section 6 : De la transformation des sociétés anonymes."
+    },
+    {
+        "id": 152,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161277",
+        "title": "Section 7 : De la dissolution des sociétés anonymes."
+    },
+    {
+        "id": 153,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161278",
+        "title": "Section 8 : De la responsabilité civile."
+    },
+    {
+        "id": 154,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161279",
+        "title": "Section 9 : Des sociétés anonymes à participation ouvrière."
+    },
+    {
+        "id": 155,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161280",
+        "title": "Section 1 : Dispositions communes aux valeurs mobilières"
+    },
+    {
+        "id": 156,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161281",
+        "title": "Section 2 : Des actions."
+    },
+    {
+        "id": 157,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029329666",
+        "title": "Section 4 : Des valeurs mobilières représentatives d'un droit de créance."
+    },
+    {
+        "id": 158,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161288",
+        "title": "Section 1 : Des documents comptables"
+    },
+    {
+        "id": 159,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161289",
+        "title": "Section 2 : Des documents propres aux sociétés faisant publiquement appel à l'épargne"
+    },
+    {
+        "id": 160,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161290",
+        "title": "Section 3 : Des amortissements et des provisions"
+    },
+    {
+        "id": 161,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161291",
+        "title": "Section 4 : Des bénéfices"
+    },
+    {
+        "id": 162,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161292",
+        "title": "Section 5 : De la publicité des comptes"
+    },
+    {
+        "id": 163,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161293",
+        "title": "Section 1 : Définitions"
+    },
+    {
+        "id": 164,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161294",
+        "title": "Section 2 : Des notifications et des informations"
+    },
+    {
+        "id": 165,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161295",
+        "title": "Section 3 : Des comptes consolidés"
+    },
+    {
+        "id": 166,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161296",
+        "title": "Section 4 : Des participations réciproques"
+    },
+    {
+        "id": 167,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161297",
+        "title": "Section 5 : Des offres publiques d'acquisition"
+    },
+    {
+        "id": 168,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161298",
+        "title": "Section 1 : Dispositions générales"
+    },
+    {
+        "id": 169,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161299",
+        "title": "Section 2 : Dispositions particulières aux sociétés anonymes"
+    },
+    {
+        "id": 170,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161300",
+        "title": "Section 3 : Dispositions particulières aux sociétés à responsabilité limitée"
+    },
+    {
+        "id": 171,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019121466",
+        "title": "Section 4 : Dispositions particulières aux fusions transfrontalières"
+    },
+    {
+        "id": 172,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161301",
+        "title": "Section 1 : Dispositions générales"
+    },
+    {
+        "id": 173,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161302",
+        "title": "Section 2 : Dispositions applicables sur décision judiciaire"
+    },
+    {
+        "id": 174,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031012724",
+        "title": "Section 1 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente des parts sociales, actions ou valeurs mobilières donnant accès à la majorité du capital dans les sociétés qui ne sont pas soumises à l'obligation de mettre en place un comité d'entreprise"
+    },
+    {
+        "id": 175,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031012747",
+        "title": "Section 2 : De l'information des salariés leur permettant de présenter une offre en cas de vente des parts sociales ou actions ou valeurs mobilières donnant accès à la majorité du capital, dans les sociétés soumises à l'obligation de mettre en place un comité d'entreprise"
+    },
+    {
+        "id": 176,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161303",
+        "title": "Section 1 : Des infractions relatives à la constitution"
+    },
+    {
+        "id": 177,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161304",
+        "title": "Section 2 : Des infractions relatives à la direction et à l'administration"
+    },
+    {
+        "id": 178,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161305",
+        "title": "Section 3 : Des infractions relatives aux assemblées d'actionnaires"
+    },
+    {
+        "id": 179,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161309",
+        "title": "Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance"
+    },
+    {
+        "id": 180,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161311",
+        "title": "Section 1 : Des infractions relatives aux actions."
+    },
+    {
+        "id": 181,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161313",
+        "title": "Section 3 : Des infractions relatives aux obligations"
+    },
+    {
+        "id": 182,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161314",
+        "title": "Section 4 : Dispositions communes"
+    },
+    {
+        "id": 183,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161315",
+        "title": "Section 5 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance"
+    },
+    {
+        "id": 184,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161316",
+        "title": "Section 1 : Des infractions relatives aux filiales, aux participations et aux sociétés contrôlées"
+    },
+    {
+        "id": 185,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161318",
+        "title": "Section 3 : Des infractions relatives à la liquidation"
+    },
+    {
+        "id": 186,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161319",
+        "title": "Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance"
+    },
+    {
+        "id": 187,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161321",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 188,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024385314",
+        "title": "Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de  l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen."
+    },
+    {
+        "id": 189,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024385332",
+        "title": "Section 3 : Des experts intervenant dans les ventes volontaires de meubles aux enchères publiques"
+    },
+    {
+        "id": 190,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161324",
+        "title": "Section 4 : Dispositions diverses."
+    },
+    {
+        "id": 191,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034161972",
+        "title": "Section 1 : Des conditions de la responsabilité"
+    },
+    {
+        "id": 192,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034162018",
+        "title": "Section 1 : Dispositions générales"
+    },
+    {
+        "id": 193,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034162022",
+        "title": "Section 2 : De la protection des pièces couvertes par le secret des affaires"
+    },
+    {
+        "id": 194,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034162028",
+        "title": "Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence "
+    },
+    {
+        "id": 195,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161325",
+        "title": "Section 1 : De la création et de la forme de la lettre de change."
+    },
+    {
+        "id": 196,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161326",
+        "title": "Section 2 : De la provision."
+    },
+    {
+        "id": 197,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161327",
+        "title": "Section 3 : De l'endossement."
+    },
+    {
+        "id": 198,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161328",
+        "title": "Section 4 : De l'acceptation."
+    },
+    {
+        "id": 199,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161329",
+        "title": "Section 5 : De l'aval."
+    },
+    {
+        "id": 200,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161330",
+        "title": "Section 6 : De l'échéance."
+    },
+    {
+        "id": 201,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161331",
+        "title": "Section 7 : Du paiement."
+    },
+    {
+        "id": 202,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161332",
+        "title": "Section 8 : Du recours faute d'acceptation et faute de paiement."
+    },
+    {
+        "id": 203,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161334",
+        "title": "Section 10 : Du rechange."
+    },
+    {
+        "id": 204,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161335",
+        "title": "Section 11 : De l'intervention."
+    },
+    {
+        "id": 205,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161337",
+        "title": "Section 13 : Des altérations."
+    },
+    {
+        "id": 206,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161338",
+        "title": "Section 14 : De la prescription."
+    },
+    {
+        "id": 207,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161339",
+        "title": "Section 15 : Dispositions générales."
+    },
+    {
+        "id": 208,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161340",
+        "title": "Section 1 : De l'agrément, de la cession et de la cessation d'exploitation."
+    },
+    {
+        "id": 209,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161341",
+        "title": "Section 2 : Des obligations, des responsabilités et des garanties."
+    },
+    {
+        "id": 210,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161342",
+        "title": "Section 3 : Du fonctionnement et du contrôle."
+    },
+    {
+        "id": 211,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161343",
+        "title": "Section 4 : Des récépissés et des warrants."
+    },
+    {
+        "id": 212,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161344",
+        "title": "Section 5 : Des sanctions."
+    },
+    {
+        "id": 213,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031012776",
+        "title": "Section 1 : De l'insaisissabilité de la résidence principale"
+    },
+    {
+        "id": 214,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022356993",
+        "title": "Section 2 : De l'entrepreneur individuel à responsabilité limitée \r\n\r\n"
+    },
+    {
+        "id": 215,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161414",
+        "title": "Section 1 : De la vérification et de l'admission des créances."
+    },
+    {
+        "id": 216,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161364",
+        "title": "Section 2 : Des droits du conjoint."
+    },
+    {
+        "id": 217,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161365",
+        "title": "Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions."
+    },
+    {
+        "id": 218,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000023217191",
+        "title": "Section 4 : Dispositions particulières au débiteur entrepreneur individuel à responsabilité limitée"
+    },
+    {
+        "id": 219,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000028722086",
+        "title": "Section 5 : Dispositions particulières aux sociétés"
+    },
+    {
+        "id": 220,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161415",
+        "title": "Section 1 : De la vérification des créances."
+    },
+    {
+        "id": 221,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161416",
+        "title": "Section 2 : Du privilège des salariés."
+    },
+    {
+        "id": 222,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161417",
+        "title": "Section 3 : De la garantie du paiement des créances résultant du contrat de travail."
+    },
+    {
+        "id": 223,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161418",
+        "title": "Section 1 : De l'élaboration du projet de plan."
+    },
+    {
+        "id": 224,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161366",
+        "title": "Section 2 : Du jugement arrêtant le plan et de l'exécution du plan."
+    },
+    {
+        "id": 225,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161367",
+        "title": "Section 3 : Des comités de créanciers."
+    },
+    {
+        "id": 226,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000028724099",
+        "title": "Section 2 : Dispositions propres à la sauvegarde financière accélérée"
+    },
+    {
+        "id": 227,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161368",
+        "title": "Section 1 : De la cession de l'entreprise."
+    },
+    {
+        "id": 228,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161369",
+        "title": "Section 2 : De la cession des actifs du débiteur."
+    },
+    {
+        "id": 229,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161370",
+        "title": "Section 3 : Dispositions communes."
+    },
+    {
+        "id": 230,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161371",
+        "title": "Section 1 : Du règlement des créanciers."
+    },
+    {
+        "id": 231,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161372",
+        "title": "Section 2 : De la clôture des opérations de liquidation judiciaire."
+    },
+    {
+        "id": 232,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161373",
+        "title": "Section 1 : De la banqueroute."
+    },
+    {
+        "id": 233,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161374",
+        "title": "Section 2 : Des autres infractions."
+    },
+    {
+        "id": 234,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161375",
+        "title": "Section 3 : Des règles de procédures."
+    },
+    {
+        "id": 235,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000035946530",
+        "title": "Section 1 : De l'ouverture et du déroulement d'une procédure d'insolvabilité secondaire"
+    },
+    {
+        "id": 236,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000035946566",
+        "title": "Section 1 : De la suspension de la réalisation des actifs dans une procédure d'insolvabilité ouverte à l'encontre d'un membre d'un groupe de sociétés"
+    },
+    {
+        "id": 237,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000035946570",
+        "title": "Section 2 : De la procédure de coordination collective"
+    },
+    {
+        "id": 238,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022516919",
+        "title": "Section 1 : Les chambres de commerce et d'industrie  territoriales et départementales d'Ile-de-France"
+    },
+    {
+        "id": 239,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022516946",
+        "title": "Section 2 : Les chambres de commerce et d'industrie de région"
+    },
+    {
+        "id": 240,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022516958",
+        "title": "Section 3 : La chambre de commerce et d'industrie de région Paris - Ile-de-France"
+    },
+    {
+        "id": 241,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030610578",
+        "title": "Section 4 : CCI France"
+    },
+    {
+        "id": 242,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029930378",
+        "title": "Section 5 : Les écoles des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région"
+    },
+    {
+        "id": 243,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029931008",
+        "title": "Section 6 : Les chambres de commerce et d'industrie locales des chambres de commerce et d'industrie de région \r\n"
+    },
+    {
+        "id": 244,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022516996",
+        "title": "Section 1 : De l'élection des membres des chambres de commerce et d'industrie territoriales et de région"
+    },
+    {
+        "id": 245,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161444",
+        "title": "Section 2 : De l'élection des délégués consulaires"
+    },
+    {
+        "id": 246,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161437",
+        "title": "Section 3 : Dispositions communes"
+    },
+    {
+        "id": 247,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030994238",
+        "title": "Section 1 : Compétence commune à tous les tribunaux de commerce"
+    },
+    {
+        "id": 248,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030994340",
+        "title": "Section 2 : Compétence particulière à certains tribunaux de commerce"
+    },
+    {
+        "id": 249,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161378",
+        "title": "Section 1 : De l'organisation et du fonctionnement du tribunal de commerce."
+    },
+    {
+        "id": 250,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161380",
+        "title": "Section 1 : De l'électorat."
+    },
+    {
+        "id": 251,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161381",
+        "title": "Section 2 : De l'éligibilité."
+    },
+    {
+        "id": 252,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161382",
+        "title": "Section 3 : Du scrutin et des opérations électorales."
+    },
+    {
+        "id": 253,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161384",
+        "title": "Section 2 : Des modes d'exercice."
+    },
+    {
+        "id": 254,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161385",
+        "title": "Section 3 : De la tarification des greffiers des tribunaux de commerce."
+    },
+    {
+        "id": 255,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019121898",
+        "title": "Section 4 : De la comptabilité.                         "
+    },
+    {
+        "id": 256,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000023275346",
+        "title": "Section 5 : De la formation professionnelle continue\r\n"
+    },
+    {
+        "id": 257,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019297673",
+        "title": "Section 1 : Des commissions départementales d'aménagement commercial."
+    },
+    {
+        "id": 258,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019297671",
+        "title": "Section 2 : De la Commission nationale d'aménagement commercial."
+    },
+    {
+        "id": 259,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029109383",
+        "title": "Section 3 : De l'observation de l'aménagement commercial."
+    },
+    {
+        "id": 260,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161389",
+        "title": "Section 1 : Des projets soumis à autorisation."
+    },
+    {
+        "id": 261,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161390",
+        "title": "Section 2 : De la décision de la commission départementale."
+    },
+    {
+        "id": 262,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161391",
+        "title": "Section 3 : Du recours contre la décision de la commission départementale."
+    },
+    {
+        "id": 263,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000026659695",
+        "title": "Section 4 : Du contrôle de l'Autorité de la concurrence en cas de position dominante"
+    },
+    {
+        "id": 264,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161447",
+        "title": "Section 2 : De la surveillance, de l'inspection et de la discipline."
+    },
+    {
+        "id": 265,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161434",
+        "title": "Section 3 : Dispositions diverses."
+    },
+    {
+        "id": 266,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253388",
+        "title": "Section 1 : De l'organisation de la profession"
+    },
+    {
+        "id": 267,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253457",
+        "title": "Section 2 : Du contrôle de la profession"
+    },
+    {
+        "id": 268,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032258544",
+        "title": "Section 1 : De l'inscription"
+    },
+    {
+        "id": 269,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161407",
+        "title": "Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes."
+    },
+    {
+        "id": 270,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161408",
+        "title": "Section 3 : De la responsabilité civile."
+    },
+    {
+        "id": 271,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161409",
+        "title": "Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes."
+    },
+    {
+        "id": 272,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161410",
+        "title": "Section 2 : De la mission du commissaire aux comptes."
+    },
+    {
+        "id": 273,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161411",
+        "title": "Section 3 : Des modalités d'exercice de la mission."
+    },
+    {
+        "id": 274,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253612",
+        "title": "Section 4 : Du comité spécialisé"
+    },
+    {
+        "id": 275,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253696",
+        "title": "Section 1 : De la nature des manquements et des sanctions"
+    },
+    {
+        "id": 276,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253739",
+        "title": "Section 2 : De la procédure"
+    },
+    {
+        "id": 277,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032253894",
+        "title": "Section 3 : Des décisions et des voies de recours"
+    },
+    {
+        "id": 278,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032254026",
+        "title": "Section 4 : De la coopération en matière de sanctions"
+    },
+    {
+        "id": 279,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025248866",
+        "title": "Section 1 : De l'inscription des courtiers de marchandises assermentés sur la liste de la cour d'appel \r\n\r\n"
+    },
+    {
+        "id": 280,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025248880",
+        "title": "Section 2 : De l'assurance et du cautionnement des courtiers de marchandises assermentés \r\n"
+    },
+    {
+        "id": 281,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025248896",
+        "title": "Section 3 : De l'examen d'aptitude aux fonctions de courtier de marchandises assermenté \r\n\r\n\r\n"
+    },
+    {
+        "id": 282,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025248906",
+        "title": "Section 4 : De la discipline des courtiers de marchandises assermentés \r\n\r\n\r\n"
+    },
+    {
+        "id": 283,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025248920",
+        "title": "Section 5 : Du Conseil national des courtiers de marchandises assermentés \r\n\r\n"
+    },
+    {
+        "id": 284,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161455",
+        "title": "Section 1 : De la réalisation du gage et de la purge des créances inscrites."
+    },
+    {
+        "id": 285,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161457",
+        "title": "Section 3 : Des intermédiaires et de la répartition du prix."
+    },
+    {
+        "id": 286,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161458",
+        "title": "Section 1 : Des mesures de publicité."
+    },
+    {
+        "id": 287,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161459",
+        "title": "Section 2 : Dispositions spécifiques pour les entreprises de transports publics et de location de véhicules industriels."
+    },
+    {
+        "id": 288,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161460",
+        "title": "Section 1 : Du renouvellement."
+    },
+    {
+        "id": 289,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161462",
+        "title": "Section 3 : De la procédure."
+    },
+    {
+        "id": 290,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025098088",
+        "title": "Section 4 : Annexe environnementale"
+    },
+    {
+        "id": 291,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029704258",
+        "title": "Section 5 : Des charges locatives, impôts, taxes, redevances et travaux"
+    },
+    {
+        "id": 292,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032196504",
+        "title": "Section 6 : Dispositions relatives au recours à la lettre recommandée avec demande d'avis de réception"
+    },
+    {
+        "id": 293,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161463",
+        "title": "Sous-section 1 : De la constitution de la société."
+    },
+    {
+        "id": 294,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161464",
+        "title": "Sous-section 2 : De la modification des statuts."
+    },
+    {
+        "id": 295,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161465",
+        "title": "Sous-section 3 : De l'action en régularisation."
+    },
+    {
+        "id": 296,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161468",
+        "title": "Section 3 : Des assemblées d'actionnaires."
+    },
+    {
+        "id": 297,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161470",
+        "title": "Section 5 : Du contrôle des sociétés anonymes."
+    },
+    {
+        "id": 298,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161471",
+        "title": "Section 6 : De la transformation des sociétés anonymes."
+    },
+    {
+        "id": 299,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161472",
+        "title": "Section 7 : De la dissolution des sociétés anonymes."
+    },
+    {
+        "id": 300,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161473",
+        "title": "Section 8 : De la responsabilité civile."
+    },
+    {
+        "id": 301,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161474",
+        "title": "Section 9 : Des sociétés anonymes à participation ouvrière."
+    },
+    {
+        "id": 302,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161475",
+        "title": "Section 1 : Dispositions communes."
+    },
+    {
+        "id": 303,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161478",
+        "title": "Section 4 : Des titres participatifs."
+    },
+    {
+        "id": 304,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161479",
+        "title": "Section 5 : Des obligations."
+    },
+    {
+        "id": 305,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161480",
+        "title": "Section 6 : Des valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créances."
+    },
+    {
+        "id": 306,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161481",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 307,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161484",
+        "title": "Section 4 : De l'administration de la société européenne."
+    },
+    {
+        "id": 308,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161485",
+        "title": "Section 5 : De la transformation de la société européenne en société anonyme."
+    },
+    {
+        "id": 309,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161486",
+        "title": "Section 1 : Des documents comptables."
+    },
+    {
+        "id": 310,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161487",
+        "title": "Section 2 : Dispositions particulières aux sociétés dont les actions sont admises à la négociation sur un marché réglementé et à certaines de leurs filiales."
+    },
+    {
+        "id": 311,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161488",
+        "title": "Section 3 : Des bénéfices."
+    },
+    {
+        "id": 312,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161489",
+        "title": "Section 4 : De la publicité des comptes."
+    },
+    {
+        "id": 313,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161490",
+        "title": "Section 1 : Des notifications et des informations."
+    },
+    {
+        "id": 314,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161491",
+        "title": "Section 2 : Des comptes consolidés."
+    },
+    {
+        "id": 315,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161492",
+        "title": "Section 3 : Des participations réciproques."
+    },
+    {
+        "id": 316,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020100804",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 317,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020100830",
+        "title": "Section 2 : Dispositions particulières aux fusions transfrontalières."
+    },
+    {
+        "id": 318,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161495",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 319,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161496",
+        "title": "Section 2 : Dispositions applicables sur décision judiciaire."
+    },
+    {
+        "id": 320,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025259266",
+        "title": "Section 2 : De la libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen."
+    },
+    {
+        "id": 321,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025259263",
+        "title": "Section 3 : De l'établissement en France des personnes habilitées à diriger des ventes volontaires de meubles aux enchères publiques dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen."
+    },
+    {
+        "id": 322,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161501",
+        "title": "Section 5 : Dispositions diverses."
+    },
+    {
+        "id": 323,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032122792",
+        "title": "Sous-section 1 : Dispositions générales "
+    },
+    {
+        "id": 324,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032122798",
+        "title": "Sous-section 2 : Méthode de fixation des tarifs "
+    },
+    {
+        "id": 325,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032122808",
+        "title": "Sous-section 3 : Structure et modalités tarifaires "
+    },
+    {
+        "id": 326,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032122820",
+        "title": "Sous-section 4 : Droits et obligations des professionnels "
+    },
+    {
+        "id": 327,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032122830",
+        "title": "Sous-section 5 : Recueil de données et d'informations \r\n\r\n"
+    },
+    {
+        "id": 328,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032128002",
+        "title": "Sous-section 1 : Redistribution interprofessionnelle "
+    },
+    {
+        "id": 329,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032128038",
+        "title": "Sous-section 2 : Société de gestion du fonds interprofessionnel de l'accès au droit et à la justice "
+    },
+    {
+        "id": 330,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032130765",
+        "title": "Sous-section 1 : Commissaires-priseurs judiciaires "
+    },
+    {
+        "id": 331,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032130781",
+        "title": "Sous-section 2 : Huissiers de justice "
+    },
+    {
+        "id": 332,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032130804",
+        "title": "Sous-section 3 : Notaires \r\n\r\n"
+    },
+    {
+        "id": 333,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034700064",
+        "title": "Sous-section 4 : Avocats "
+    },
+    {
+        "id": 334,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161502",
+        "title": "Section 1 : De la saisine."
+    },
+    {
+        "id": 335,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161503",
+        "title": "Section 2 : De l'instruction."
+    },
+    {
+        "id": 336,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161504",
+        "title": "Section 3 : De la notification des griefs et du rapport."
+    },
+    {
+        "id": 337,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161505",
+        "title": "Section 4 : Du secret des affaires."
+    },
+    {
+        "id": 338,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161506",
+        "title": "Section 5 : De l'expertise."
+    },
+    {
+        "id": 339,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161507",
+        "title": "Section 1 : Des décisions."
+    },
+    {
+        "id": 340,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022335111",
+        "title": "Section 2 : Des recours exercés devant la cour d'appel de Paris contre les décisions de l'Autorité de la concurrence."
+    },
+    {
+        "id": 341,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034619366",
+        "title": "Section 3 : Des recours exercés devant le premier président de la cour d'appel de Paris contre certaines décisions du rapporteur général de l'Autorité de la concurrence"
+    },
+    {
+        "id": 342,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034625829",
+        "title": "Section 4 : Dispositions communes aux différentes demandes"
+    },
+    {
+        "id": 343,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034161728",
+        "title": "Section 2 : Des effets de la responsabilité"
+    },
+    {
+        "id": 344,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034161774",
+        "title": "Section 1 : Dispositions générales"
+    },
+    {
+        "id": 345,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034161857",
+        "title": "Section 2 : De la protection des pièces couvertes par le secret des affaires"
+    },
+    {
+        "id": 346,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034162112",
+        "title": "Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence"
+    },
+    {
+        "id": 347,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000034162168",
+        "title": "Section 4 : Des sanctions"
+    },
+    {
+        "id": 348,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161509",
+        "title": "Section 1 : Du paiement."
+    },
+    {
+        "id": 349,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161510",
+        "title": "Section 2 : Des protêts."
+    },
+    {
+        "id": 350,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161511",
+        "title": "Section 1 : De l'agrément, de la cession et de la cessation d'exploitation."
+    },
+    {
+        "id": 351,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161512",
+        "title": "Section 2 : Des obligations, des responsabilités et des garanties."
+    },
+    {
+        "id": 352,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161513",
+        "title": "Section 3 : Du fonctionnement et du contrôle."
+    },
+    {
+        "id": 353,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161514",
+        "title": "Section 4 : Des récépissés et des warrants."
+    },
+    {
+        "id": 354,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161515",
+        "title": "Section 5 : Des sanctions."
+    },
+    {
+        "id": 355,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032204915",
+        "title": "Section 1 : De l'insaisissabilité."
+    },
+    {
+        "id": 356,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161516",
+        "title": "Section 1 : Des formalités d'inscription."
+    },
+    {
+        "id": 357,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161517",
+        "title": "Section 2 : Des formalités modificatives."
+    },
+    {
+        "id": 358,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161518",
+        "title": "Section 3 : Des effets de l'inscription."
+    },
+    {
+        "id": 359,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161519",
+        "title": "Section 4 : De la radiation de l'inscription."
+    },
+    {
+        "id": 360,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161520",
+        "title": "Section 5 : Des obligations des greffiers."
+    },
+    {
+        "id": 361,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161521",
+        "title": "Section 6 : Des recours."
+    },
+    {
+        "id": 362,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161522",
+        "title": "Section 7 : Dispositions diverses."
+    },
+    {
+        "id": 363,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161527",
+        "title": "Section 1 : Des groupements de prévention agréés."
+    },
+    {
+        "id": 364,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029175078",
+        "title": "Section 2 : De la détection des difficultés des entreprises par le président du tribunal"
+    },
+    {
+        "id": 365,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161524",
+        "title": "Section 3 : Du mandat ad hoc."
+    },
+    {
+        "id": 366,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161525",
+        "title": "Section 4 : De la procédure de conciliation."
+    },
+    {
+        "id": 367,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029175135",
+        "title": "Section 5 : De la rémunération du mandataire ad hoc, du conciliateur, du mandataire à l'exécution de l'accord et de l'expert."
+    },
+    {
+        "id": 368,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161528",
+        "title": "Section 1 : De la saisine et de la décision du tribunal."
+    },
+    {
+        "id": 369,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161529",
+        "title": "Section 2 : Des organes de la procédure et des contrôleurs."
+    },
+    {
+        "id": 370,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161530",
+        "title": "Section 1 : Des mesures conservatoires."
+    },
+    {
+        "id": 371,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161531",
+        "title": "Section 2 : De la gestion de l'entreprise."
+    },
+    {
+        "id": 372,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161532",
+        "title": "Section 3 : De la poursuite de l'activité."
+    },
+    {
+        "id": 373,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161533",
+        "title": "Section 4 : De la déclaration de créances."
+    },
+    {
+        "id": 374,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161535",
+        "title": "Section 2 : Des droits du conjoint."
+    },
+    {
+        "id": 375,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161536",
+        "title": "Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions."
+    },
+    {
+        "id": 376,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029171845",
+        "title": "Section 4 : Dispositions particulières aux sociétés"
+    },
+    {
+        "id": 377,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161539",
+        "title": "Section 3 : Des comités de créanciers."
+    },
+    {
+        "id": 378,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029180176",
+        "title": "Section 1 : Dispositions générales"
+    },
+    {
+        "id": 379,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000029180236",
+        "title": "Section 2 : Dispositions propres à la sauvegarde financière accélérée"
+    },
+    {
+        "id": 380,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161542",
+        "title": "Section 1 : De la saisine et de la décision du tribunal."
+    },
+    {
+        "id": 381,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161543",
+        "title": "Section 2 : Des conditions d'application de la liquidation judiciaire simplifiée."
+    },
+    {
+        "id": 382,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161544",
+        "title": "Section 3 : Des organes de la procédure et des contrôleurs."
+    },
+    {
+        "id": 383,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161545",
+        "title": "Section 4 : Des mesures conservatoires."
+    },
+    {
+        "id": 384,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161546",
+        "title": "Section 5 : Du maintien de l'activité."
+    },
+    {
+        "id": 385,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161547",
+        "title": "Section 6 : Des instances interrompues et des procédures d'ordre en cours."
+    },
+    {
+        "id": 386,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161548",
+        "title": "Section 7 : De la déclaration des créances."
+    },
+    {
+        "id": 387,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161549",
+        "title": "Section 8 : De la vérification et de l'admission des créances."
+    },
+    {
+        "id": 388,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161550",
+        "title": "Section 9 : Des droits du conjoint du débiteur."
+    },
+    {
+        "id": 389,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161551",
+        "title": "Section 10 : Des droits du vendeur de meubles, des revendications et des restitutions."
+    },
+    {
+        "id": 390,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161552",
+        "title": "Section 11 : Du règlement des créances résultant du contrat de travail."
+    },
+    {
+        "id": 391,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161553",
+        "title": "Section 12 : Dispositions diverses."
+    },
+    {
+        "id": 392,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161554",
+        "title": "Section 1 : De la cession de l'entreprise."
+    },
+    {
+        "id": 393,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161556",
+        "title": "Section 3 : Dispositions communes."
+    },
+    {
+        "id": 394,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161557",
+        "title": "Section 1 : Du règlement des créanciers."
+    },
+    {
+        "id": 395,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161558",
+        "title": "Section 2 : De la clôture des opérations de liquidation judiciaire."
+    },
+    {
+        "id": 396,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161559",
+        "title": "Section 1 : De la prise en charge de certains frais de justice par le Trésor public."
+    },
+    {
+        "id": 397,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161561",
+        "title": "Section 3 : De l'indemnisation des dossiers impécunieux."
+    },
+    {
+        "id": 398,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022682793",
+        "title": "Section 2 : Des chambres de commerce et d'industrie de région"
+    },
+    {
+        "id": 399,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030610530",
+        "title": "Section 3 : De CCI France."
+    },
+    {
+        "id": 400,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161565",
+        "title": "Section 4 : Dispositions communes."
+    },
+    {
+        "id": 401,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161567",
+        "title": "Section 1 : Des modalités de la tutelle."
+    },
+    {
+        "id": 402,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161570",
+        "title": "Section 3 : Des emprunts souscrits et des garanties accordées par les établissements du réseau."
+    },
+    {
+        "id": 403,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161571",
+        "title": "Section 4 : Des équipements et services gérés par les établissements du réseau dans le cadre de délégations de services publics."
+    },
+    {
+        "id": 404,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000022682816",
+        "title": "Section 1 : De l'élection des membres des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région"
+    },
+    {
+        "id": 405,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161574",
+        "title": "Section 3 : Dispositions communes."
+    },
+    {
+        "id": 406,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161575",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 407,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161576",
+        "title": "Section 2 : De la compétence."
+    },
+    {
+        "id": 408,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161577",
+        "title": "Section 3 : Du Conseil national des tribunaux de commerce."
+    },
+    {
+        "id": 409,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032131274",
+        "title": "Section 4 : Du siège et du ressort de certains tribunaux de commerce spécialisés"
+    },
+    {
+        "id": 410,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032462115",
+        "title": "Section 5 : Des instances de déontologie des juges des tribunaux de commerce "
+    },
+    {
+        "id": 411,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161578",
+        "title": "Section 1 : De l'organisation et du fonctionnement du tribunal de commerce."
+    },
+    {
+        "id": 412,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161580",
+        "title": "Section 1 : De l'électorat."
+    },
+    {
+        "id": 413,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161581",
+        "title": "Section 2 : Du scrutin et des opérations électorales."
+    },
+    {
+        "id": 414,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161582",
+        "title": "Section 1 : De la Commission nationale de discipline."
+    },
+    {
+        "id": 415,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161583",
+        "title": "Section 2 : De la procédure disciplinaire."
+    },
+    {
+        "id": 416,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161584",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 417,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161585",
+        "title": "Section 2 : De la modification du ressort des juridictions commerciales."
+    },
+    {
+        "id": 418,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161586",
+        "title": "Section 3 : Du Conseil national des greffiers des tribunaux de commerce."
+    },
+    {
+        "id": 419,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161588",
+        "title": "Section 2 : Des conditions d'accès aux professions judiciaires et juridiques de certains greffiers de tribunal de commerce."
+    },
+    {
+        "id": 420,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024630954",
+        "title": "Section 3 :  De la formation professionnelle continue   des greffiers des tribunaux de commerce"
+    },
+    {
+        "id": 421,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024807568",
+        "title": "Section 2 bis : Des sociétés de participations financières de profession libérale de greffiers des tribunaux de commerce \r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+        "id": 422,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161591",
+        "title": "Section 3 : De la tarification des greffiers des tribunaux de commerce."
+    },
+    {
+        "id": 423,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025622702",
+        "title": "Section 4 : De la modification du ressort des juridictions commerciales par suite d'une nouvelle délimitation de circonscriptions administratives ou judiciaires et du transfert du greffe des tribunaux mixtes de commerce."
+    },
+    {
+        "id": 424,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020786122",
+        "title": "Section 5 : Compte affecté aux fonds détenus pour le compte de tiers\r\n"
+    },
+    {
+        "id": 425,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019297667",
+        "title": "Section 1 : Des commissions départementales d'aménagement commercial."
+    },
+    {
+        "id": 426,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000019297665",
+        "title": "Section 2 : De la Commission nationale d'aménagement commercial."
+    },
+    {
+        "id": 427,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030247550",
+        "title": "Section 1 : Des projets soumis à autorisation"
+    },
+    {
+        "id": 428,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030246922",
+        "title": "Section 4 : Du contrôle."
+    },
+    {
+        "id": 429,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000030246917",
+        "title": "Section 5 : De la fin de l'exploitation commerciale."
+    },
+    {
+        "id": 430,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161604",
+        "title": "Section 1 : Dispositions générales."
+    },
+    {
+        "id": 431,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161609",
+        "title": "Section 3 : De la désignation d'un administrateur provisoire."
+    },
+    {
+        "id": 432,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161611",
+        "title": "Section 2 : De la surveillance, de l'inspection et de la discipline."
+    },
+    {
+        "id": 433,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032361715",
+        "title": "Section 3 : Du salariat"
+    },
+    {
+        "id": 434,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000031982982",
+        "title": "Section 1 : De la Commission nationale d'inscription et de discipline et des recours contre les décisions de la commission"
+    },
+    {
+        "id": 435,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161613",
+        "title": "Section 2 : De la représentation des professions auprès des pouvoirs publics."
+    },
+    {
+        "id": 436,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025738564",
+        "title": "Section 6 : Des sociétés de participations financières de professions libérales d'administrateurs judiciaires ou de mandataires judiciaires"
+    },
+    {
+        "id": 437,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032955389",
+        "title": "Section 2 : Du contrôle de la profession"
+    },
+    {
+        "id": 438,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161621",
+        "title": "Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes."
+    },
+    {
+        "id": 439,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032946932",
+        "title": "Section 2 bis : De l'organisation de l'exercice professionnel\r\n"
+    },
+    {
+        "id": 440,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161622",
+        "title": "Section 3 : De la responsabilité civile."
+    },
+    {
+        "id": 441,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161624",
+        "title": "Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes."
+    },
+    {
+        "id": 442,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161625",
+        "title": "Section 2 : De la mission du commissaire aux comptes."
+    },
+    {
+        "id": 443,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000006161626",
+        "title": "Section 3 : Des modalités d'exercice de la mission."
+    },
+    {
+        "id": 444,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032947941",
+        "title": "Section 2 : De la procédure"
+    },
+    {
+        "id": 445,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032948119",
+        "title": "Section 3 : Des décisions et des voies de recours"
+    },
+    {
+        "id": 446,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020165332",
+        "title": "Section préliminaire : Des centres de formalités des entreprises"
+    },
+    {
+        "id": 447,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164872",
+        "title": "Section 3 : Des assemblées d'actionnaires"
+    },
+    {
+        "id": 448,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164815",
+        "title": "Section 1 : Des notifications et des informations"
+    },
+    {
+        "id": 449,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025591689",
+        "title": "Section 3 : De l'établissement en France des personnes habilitées à diriger des ventes volontaires de meubles aux enchères publiques dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen"
+    },
+    {
+        "id": 450,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032119008",
+        "title": "Section 1 : Tarifs des commissaires-priseurs judiciaires "
+    },
+    {
+        "id": 451,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032127742",
+        "title": "Section 2 : Tarifs des huissiers de justice "
+    },
+    {
+        "id": 452,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032132058",
+        "title": "Section 3 : Tarifs des notaires \r\n"
+    },
+    {
+        "id": 453,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000035190553",
+        "title": "Section 4 : Tarifs des avocats "
+    },
+    {
+        "id": 454,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000023374420",
+        "title": "Section unique : De l'entrepreneur individuel à responsabilité limitée"
+    },
+    {
+        "id": 455,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000023376618",
+        "title": "ANNEXE 5-1 (annexe aux articles A526-1 et A526-2)"
+    },
+    {
+        "id": 456,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000024660866",
+        "title": "ANNEXE 5-2 (Annexe à l'article A526-3)"
+    },
+    {
+        "id": 457,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032609319",
+        "title": "Section 2 : De la rémunération de l'administrateur judiciaire, du commissaire à l'exécution du plan, du mandataire judiciaire et du liquidateur"
+    },
+    {
+        "id": 458,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164445",
+        "title": "Section 4  :   Dispositions communes"
+    },
+    {
+        "id": 459,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164427",
+        "title": "Section 1  :   Des modalités de la tutelle"
+    },
+    {
+        "id": 460,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164241",
+        "title": "Section 3 :  Dispositions communes"
+    },
+    {
+        "id": 461,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164217",
+        "title": "Section 3  :   Du Conseil national des tribunaux de commerce"
+    },
+    {
+        "id": 462,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020164175",
+        "title": "Section 1  :   Dispositions générales"
+    },
+    {
+        "id": 463,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025364565",
+        "title": "Section 1 : Compte affecté aux fonds détenus pour le compte de tiers"
+    },
+    {
+        "id": 464,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025363068",
+        "title": "Section 2 : Des sociétés de participations financières de profession libérale de greffiers des tribunaux de commerce"
+    },
+    {
+        "id": 465,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000032118482",
+        "title": "Section 3 : De la tarification des greffiers des tribunaux de commerce \r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+        "id": 466,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020163987",
+        "title": "Section 1  :   Dispositions générales"
+    },
+    {
+        "id": 467,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020163639",
+        "title": "Section 2 : De la représentation des professions auprès des pouvoirs publics"
+    },
+    {
+        "id": 468,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000025739841",
+        "title": "Section 6 : Des sociétés de participations financières de professions libérales       d'administrateurs judiciaires et de mandataires judiciaires"
+    },
+    {
+        "id": 469,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020632412",
+        "title": "Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes"
+    },
+    {
+        "id": 470,
+        "cidTexte": "LEGITEXT000005634379",
+        "idArticle": "LEGISCTA000020163490",
+        "title": "Section 3 : De la responsabilité civile"
+    }]
+}
