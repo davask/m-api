@@ -143,152 +143,92 @@
     },
     {
         "id": 16,
-        "cidTexte": "LEGITEXT000006070721",
-        "idArticle": "LEGISCTA000006165748",
-        "title": "Paragraphe 2 : Des conséquences propres aux divorces autres que par consentement mutuel."
-    },
-    {
-        "id": 17,
-        "cidTexte": "LEGITEXT000006070721",
-        "idArticle": "LEGISCTA000006165474",
-        "title": "Paragraphe 3 : Des prestations compensatoires."
-    },
-    {
-        "id": 18,
-        "cidTexte": "LEGITEXT000006070721",
-        "idArticle": "LEGISCTA000006165784",
-        "title": "Paragraphe 4 : Du logement."
-    },
-    {
-        "id": 19,
-        "cidTexte": "LEGITEXT000006070721",
-        "idArticle": "LEGISCTA000006165486",
-        "title": "Paragraphe 1 : De la désignation de la mère dans l'acte de naissance"
-    },
-    {
-        "id": 20,
-        "cidTexte": "LEGITEXT000006070721",
-        "idArticle": "LEGISCTA000006165749",
-        "title": "Paragraphe 2 : De la présomption de paternité"
-    },
-    {
-        "id": 21,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000019287890",
         "title": "Section 2 : Du conjoint    du chef d'entreprise ou du partenaire lié au chef d'entreprise par un pacte civil de solidarité, travaillant dans l'entreprise familiale"
     },
     {
-        "id": 22,
+        "id": 17,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000019289825",
         "title": "Section 3 : Des activités commerciales et artisanales ambulantes"
     },
     {
-        "id": 23,
+        "id": 18,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161251",
         "title": "Section 1 : De la constitution du magasin collectif"
     },
     {
-        "id": 24,
+        "id": 19,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161252",
         "title": "Section 2 : De l'administration du magasin collectif"
     },
     {
-        "id": 25,
+        "id": 20,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161253",
         "title": "Section 3 : De l'agrément et de l'exclusion."
     },
     {
-        "id": 26,
+        "id": 21,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161254",
         "title": "Section 4 : De la dissolution."
     },
     {
-        "id": 27,
+        "id": 22,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000024384735",
         "title": "Section 1 : Des courtiers en général"
     },
     {
-        "id": 28,
+        "id": 23,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161255",
         "title": "Section 1 : Des commissionnaires en général."
     },
     {
-        "id": 29,
+        "id": 24,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161256",
         "title": "Section 2 : Des commissionnaires pour les transports."
     },
     {
-        "id": 30,
+        "id": 25,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161257",
         "title": "Section 1 : De l'acte de vente."
     },
     {
-        "id": 31,
+        "id": 26,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161258",
         "title": "Section 2 : Du privilège du vendeur."
     },
     {
-        "id": 32,
+        "id": 27,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000031012687",
         "title": "Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité d'entreprise"
     },
     {
-        "id": 33,
+        "id": 28,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000031012706",
         "title": "Section 4 : De l'information anticipée des salariés leur permettant de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises soumises à l'obligation de mettre en place un comité d'entreprise"
     },
     {
-        "id": 34,
+        "id": 29,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161259",
         "title": "Section 1 : De la réalisation du gage et de la purge des créances inscrites."
     },
     {
-        "id": 35,
+        "id": 30,
         "cidTexte": "LEGITEXT000005634379",
         "idArticle": "LEGISCTA000006161260",
         "title": "Section 2 : Des formalités d'inscription et de radiation."
-    },
-    {
-        "id": 36,
-        "cidTexte": "LEGITEXT000005634379",
-        "idArticle": "LEGISCTA000006161261",
-        "title": "Section 3 : Des intermédiaires et de la répartition du prix."
-    },
-    {
-        "id": 37,
-        "cidTexte": "LEGITEXT000005634379",
-        "idArticle": "LEGISCTA000006161262",
-        "title": "Section 1 : Du champ d'application."
-    },
-    {
-        "id": 38,
-        "cidTexte": "LEGITEXT000005634379",
-        "idArticle": "LEGISCTA000006161263",
-        "title": "Section 2 : De la durée."
-    },
-    {
-        "id": 39,
-        "cidTexte": "LEGITEXT000005634379",
-        "idArticle": "LEGISCTA000006161264",
-        "title": "Section 3 : Du renouvellement."
-    },
-    {
-        "id": 40,
-        "cidTexte": "LEGITEXT000005634379",
-        "idArticle": "LEGISCTA000006161265",
-        "title": "Section 4 : Du refus de renouvellement."
     }]
 }
